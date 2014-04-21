@@ -241,6 +241,10 @@ nav#mainNav a.active:after{
 	margin-top:50px;
 }
 
+p{
+	margin-top:20px;
+}
+
 
 .aboutIntro h1{
 	text-transform:uppercase;
