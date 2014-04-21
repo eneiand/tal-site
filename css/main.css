@@ -201,18 +201,17 @@ nav#mainNav a.active:after{
 
 
 .imgAbout {
-	background-image: url(../images/about.jpg) ;
-    background-position: 50% 20%;
+	background-image: url(../images/tal.jpg) ;
+    background-position: 50% 40%;
     background-size: cover;
     display: block;
     min-height: 300px;
     position: static;
-    width: 100%;
+    width: 50%;
 	height: 100%;
     left: 0;
     position: absolute;
     top: 0;
-    width: 50%;
     z-index: 11;
 }
 
