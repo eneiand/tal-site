@@ -145,15 +145,15 @@ nav#mainNav a.active:after{
 
 
 
-.download, .download span, .download i {
+.twit, .twit span, .twit i {
     background: #03CC85;
 }
 
-.print, .print span, .print i {
+.mail, .mail span, .mail i {
     background-color: #343434;
 }
 
-.print i, .download i {
+.mail i, .twit i {
     color: #ffffff;
     display: block;
     font-size: 17px;
@@ -166,7 +166,7 @@ nav#mainNav a.active:after{
 }
 
 
-.print span, .download span {
+.mail span, .twit span {
     color: #FFFFFF;
     font-size: 15px;
     height: 45px;
@@ -184,14 +184,14 @@ nav#mainNav a.active:after{
     z-index: 12;
 }
 
-.print:hover span {
+.mail:hover span {
     margin-right: 20px;
     opacity: 1;
     width: 120px;
     box-sizing:border-box;
 	-moz-box-sizing:border-box; /* Firefox */
 }
-.download:hover span {
+.twit:hover span {
     margin-right: 20px;
     opacity: 1;
     width: 200px;
