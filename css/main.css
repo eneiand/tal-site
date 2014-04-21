@@ -187,14 +187,14 @@ nav#mainNav a.active:after{
 .print:hover span {
     margin-right: 20px;
     opacity: 1;
-    width: 170px;
+    width: 120px;
     box-sizing:border-box;
 	-moz-box-sizing:border-box; /* Firefox */
 }
 .download:hover span {
     margin-right: 20px;
     opacity: 1;
-    width: 170px;
+    width: 200px;
     box-sizing:border-box;
 	-moz-box-sizing:border-box; /* Firefox */
 }
