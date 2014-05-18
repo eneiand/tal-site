@@ -182,4 +182,5 @@ nav#mainNav li, ul#category li a, .projDesc span, .cForm input[type="text"]{font
 	.section h2{text-align:left;}
 	.bBottom{border-bottom:3px solid #efefef;}
 	.top{margin-top:60px;}
-
+    .poem{text-align:left; line-height: 50%; padding-bottom: 60px;}
+    .verse{padding-top: 15px;}
